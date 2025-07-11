@@ -1,2 +1,2 @@
 # estrutura-de-dados-python
-Aprendendo Estrutura de dados em python
+Aprendendo Estrutura de dados com python
